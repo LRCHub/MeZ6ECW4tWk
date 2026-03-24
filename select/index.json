@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "嗚呼、我が浪漫の道よ",
+  "base_artist": "PelleK",
+  "createdAt": "2026-03-24T06:48:02.894731Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "嗚呼、我が浪漫の道よ",
+      "artist": "PelleK",
+      "has_synced": true,
+      "path": "select/01_嗚呼、我が浪漫の道よ_PelleK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "嗚呼、我が浪漫の道よ",
+      "artist": "PelleK",
+      "has_synced": false,
+      "path": "select/pl_01_嗚呼、我が浪漫の道よ_PelleK.txt"
+    }
+  ]
+}
